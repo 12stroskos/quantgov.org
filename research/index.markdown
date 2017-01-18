@@ -6,9 +6,9 @@ title: Research Featuring QuantGov Data
 The research papers, congressional testimonies, and other studies listed below used data derived from the QuantGov platform as a
 component of the research. If you have used QuantGov or RegData in a research project, please email us at <info@quantgov.org> to be added to this list.
 
-### Academic Research Using QuantGov and RegData
+### Research Using QuantGov and RegData
 
-  __Mercatus Work__
+#### Mercatus Research
 -   Bailey, James and Diana Thomas. [“Regulating Away Competition: The
     Effect of Regulation on Entrepreneurship and
     Employment.”](http://mercatus.org/publication/regulating-away-competition-effect-regulation-entrepreneurship-and-employment)
@@ -51,9 +51,11 @@ component of the research. If you have used QuantGov or RegData in a research pr
     Efficiency.”](http://mercatus.org/publication/regulatory-reform-florida-opportunity-greater-competitiveness-and-economic-efficiency)
     Mercatus Working Paper. Arlington, VA: Mercatus Center at George
     Mason University, March 2014.
-    
-    
-__Outside Work Innovating with QuantGov__
+-   Peirce, Hester and James Broughel. [Dodd-Frank: What It Does and Why
+    It’s Flawed.]() Arlington, VA: Mercatus Center at George Mason
+    University, 2013.
+
+#### Non-Mercatus Research
 -   Barrage, Lint. [“Is Regulatory Rulemaking State-Contingent? An
     Empirical Analysis.”](http://lintbarrage.com/research)
     Working Paper. December 2014.
@@ -124,12 +126,7 @@ __Outside Work Innovating with QuantGov__
     Burdens?”](http://www.fed-soc.org/publications/detail/epas-retrospective-review-of-regulations-will-it-reduce-manufacturing-burdens)
     Engage: The Journal of the Federalist Society Practice Groups
     14, no. 2 (July 2013).
--   Peirce, Hester and James Broughel. [Dodd-Frank: What It Does and Why
-    It’s Flawed.]() Arlington, VA: Mercatus Center at George Mason
-    University, 2013.
 -   Yandle, Bruce. [“The Economic
     Situation.”](http://mercatus.org/publication/economic-situation-september-2012) Commentary.
     Arlington, VA: Mercatus Center at George Mason University,
     September 2012.
-
-
